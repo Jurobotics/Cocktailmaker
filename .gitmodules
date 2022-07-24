@@ -1,0 +1,3 @@
+[submodule "backend_service"]
+ path = backend_service
+ url = https://github.com/Jurobotics/CMT_backend_service.git
